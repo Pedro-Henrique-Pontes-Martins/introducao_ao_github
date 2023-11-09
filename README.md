@@ -72,4 +72,18 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+
+#Etapas para gerenciar um projeto no GitHub
+
+**Criar ou clonar um Repositório**
+
+**Criar um novo Branch**
+
+**Fazer e salvar as alterações nos arquivos**
+
+**Executar o comando commit**
+
+**Solicitar a mesclagem do código através do pull request**
+
+**Solicitar o merge do código para o branch principal**
 </footer>
